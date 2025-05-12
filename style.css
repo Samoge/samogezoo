@@ -306,4 +306,63 @@ img{
     font-size: 45px;
 }
 
+.com-container{
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.com-container1{
+    height: 350px;
+    width: 350px;
+    background: linear-gradient(to top, black, transparent), url(./images/Queensland\ Things\ To\ Do.jpeg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    color: white;
+    border-radius: 50px;
+}
+.com-container2{
+    height: 350px;
+    width: 350px;
+    background: linear-gradient(to top, black, transparent), url(./images/African\ Fund\ for\ Endangered\ Wildlife\ -\ Giraffe\ Centre.jpeg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    color: white;
+    border-radius: 50px;
+}
+.com-container3{
+    height: 350px;
+    width: 350px;
+    background: linear-gradient(to top, black, transparent), url(./images/Employment\ -\ Australia\ Zoo\ -\ View\ Current\ Vacancies.jpeg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    color: white;
+    border-radius: 50px;
+}
+.com-container4{
+    height: 350px;
+    width: 350px;
+    background: linear-gradient(to top, black, transparent), url(./images/I\ Work\ In\ Zoology_\ This\ Is\ What\ I\ Wear\ To\ Work….jpeg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    color: white;
+    border-radius: 50px;
+}
+
+.com-container h3{
+    font-size: 30px;
+}
+
 /* Community ends here */
